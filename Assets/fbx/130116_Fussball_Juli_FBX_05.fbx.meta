@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 2c6adce963fd10a45ae645fa151a671f
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bande_L_1
+    100004: bande_R_1
+    100006: Ebene
+    100008: Ebene_2
+    100010: Fahne_L
+    100012: Fahne_L_1
+    100014: Highscore_1
+    100016: Joint
+    100018: Joint_1
+    100020: Joint_1_2
+    100022: Joint_1_3
+    100024: Joint_1_4
+    100026: Joint_2
+    100028: Joint_3
+    100030: Joint_4
+    100032: polySurface1
+    100034: polySurface2
+    100036: Punkte_1
+    100038: Rasen_1
+    100040: Skin
+    100042: Skin_2
+    100044: Soccerball_1
+    100046: Tor_1
+    100048: transform1
+    100050: Zeit_1
+    400000: //RootNode
+    400002: bande_L_1
+    400004: bande_R_1
+    400006: Ebene
+    400008: Ebene_2
+    400010: Fahne_L
+    400012: Fahne_L_1
+    400014: Highscore_1
+    400016: Joint
+    400018: Joint_1
+    400020: Joint_1_2
+    400022: Joint_1_3
+    400024: Joint_1_4
+    400026: Joint_2
+    400028: Joint_3
+    400030: Joint_4
+    400032: polySurface1
+    400034: polySurface2
+    400036: Punkte_1
+    400038: Rasen_1
+    400040: Skin
+    400042: Skin_2
+    400044: Soccerball_1
+    400046: Tor_1
+    400048: transform1
+    400050: Zeit_1
+    2300000: bande_L_1
+    2300002: bande_R_1
+    2300004: Fahne_L
+    2300006: Fahne_L_1
+    2300008: Highscore_1
+    2300010: polySurface1
+    2300012: polySurface2
+    2300014: Punkte_1
+    2300016: Rasen_1
+    2300018: Soccerball_1
+    2300020: Zeit_1
+    3300000: bande_L_1
+    3300002: bande_R_1
+    3300004: Fahne_L
+    3300006: Fahne_L_1
+    3300008: Highscore_1
+    3300010: polySurface1
+    3300012: polySurface2
+    3300014: Punkte_1
+    3300016: Rasen_1
+    3300018: Soccerball_1
+    3300020: Zeit_1
+    4300000: Highscore_1
+    4300002: Punkte_1
+    4300004: Zeit_1
+    4300006: Tor_1
+    4300008: Fahne_L
+    4300010: Ebene
+    4300012: Fahne_L_1
+    4300014: Ebene_2
+    4300016: Rasen_1
+    4300018: bande_L_1
+    4300020: bande_R_1
+    4300022: Soccerball_1
+    4300024: polySurface1
+    4300026: polySurface2
+    7400000: C4D Animation Take
+    7400002: Take 001
+    11100000: //RootNode
+    13700000: Ebene
+    13700002: Ebene_2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
