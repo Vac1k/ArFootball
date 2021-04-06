@@ -4,10 +4,6 @@ using UnityEngine;
 
 public class Ball : MonoBehaviour
 {
-    //TEst_git
-
-
-
     // Start is called before the first frame update
     void Start()
     {
